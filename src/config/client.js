@@ -4,6 +4,6 @@
  * Yup. It's that easy.
  */
 export default {
-  scapholdUrl: 'https://us-west-2.api.scaphold.io/graphql/react-apollo-starter-kit'
+  scapholdUrl: 'https://scaphold.io/apps/ConnectionTest/schema/core'
 }
 
